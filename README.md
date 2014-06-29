@@ -1,4 +1,4 @@
 hast
 ====
 
-Haskell project, workspace manager
+Haskell (project, workspace) manager
